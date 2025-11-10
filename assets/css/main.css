@@ -3083,7 +3083,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
-			background: rgba(#0a0a0a);
+			background: rgba(10, 10, 10, 1);
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
@@ -3471,10 +3471,10 @@ input, select, textarea {
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(#0a0a0a), rgba(#0a0a0a)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(#0a0a0a), rgba(#0a0a0a)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(#0a0a0a), rgba(#0a0a0a)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(#0a0a0a), rgba(#0a0a0a)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(10, 10, 10, 1), rgba(10, 10, 10, 1)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(10, 10, 10, 1), rgba(10, 10, 10, 1)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(10, 10, 10, 1), rgba(10, 10, 10, 1)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(10, 10, 10, 1), rgba(10, 10, 10, 1)), url("images/overlay.png");;
 			content: '';
 			display: block;
 			height: 100%;
