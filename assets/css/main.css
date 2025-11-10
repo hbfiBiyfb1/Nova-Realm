@@ -288,7 +288,7 @@ input, select, textarea {
 		}
 
 		99% {
-			color: #1c1d26;
+			color: #0a0a0a;
 			z-index: 100001;
 			-moz-transform: scale(0.5) rotate(360deg);
 			-webkit-transform: scale(0.5) rotate(360deg);
